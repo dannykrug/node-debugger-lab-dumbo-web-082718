@@ -13,7 +13,7 @@ module.exports = function account() {
       customerAccount.type = 'savings'
     }
   }
-
+  
   var signupBonus = 250,
     deposit = 1000
 
